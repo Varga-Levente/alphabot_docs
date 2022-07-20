@@ -1,0 +1,61 @@
+# AlphaBOT
+## Setup
+- First you need to invite the bot to your server [AlphaBOT]
+- You need to grant all permissions to the bot
+- When the bot is successfully joined to your server you need to move the bot's role to the top of the roles tree
+- Thats all. Now you can use the bot
+
+## Commands
+| Command | Aliases | Cooldown | Description |
+| ------ | ------ | ------ | ------ |
+| >>bot | - | 5 sec | Send a short embed about the bot |
+| >>help | >>commands / >>cmds | 5 sec | List all commands of bot or info about a specific command |
+| >>ban [@user or UserID] [Reason] | >>b | 5 sec | Ban user from the guild |
+| >>unban [@user or UserID] | >>ub | 5 sec | Unban user from the guild |
+| >>clear [number] | >>purge | 10 sec | Clears number of messages in chat |
+| >>giveaway-start [Title] [Prize] [Emoji] [Winner count 1-15] [Duration in seconds] | >>gstart | 5 sec | **Use _ instead of space in the title and prize!** You can create a giveaway |
+| >>giveaway-end [message-id] | >>gend | 5 sec | Ends a giveaway and rolls the winer(s) |
+| >>rdog | - | 5 sec | Random dog image |
+| >>serverinfo | >>si | 5 sec | Show the guild informations |
+| >>timer [10s or 10m or 10h] | >>countdown | 5 sec | Start a timer |
+| >>userinfo [@user or UserID] | >>ui | 5 sec | Shows information about user |
+
+---
+
+# AlphaMusic
+## Setup
+- First you need to invite the bot to your server [AlphaMusic]
+- You need to grant all permissions to the bot
+- When the bot is successfully joined to your server you need to run the ```!deploy``` command
+- Thats all. Now you can use the bot
+
+## Commands
+| Command | Description |
+| ------- | -------|
+| /help | List of available commands |
+| /loop | Sets loop mode |
+| /move | Move song position min the queue |
+| /nowplaying | Get the song that currently playing |
+| /pause | Pause current song |
+| /play | Play a song in your channel. (You can search but also you can use the [YouTube / Spotify] URLs) |
+| /playtop | Play a song before the next in your channel |
+| /queue | View the queue of current songs |
+| /remove | Remove a song from the queue |
+| /resume | Resume current song |
+| /shuffle | Shuffle the queue |
+| /skip | Skip a song |
+| /stop | Stop all song and disconnect |
+| /swap | Swap song positions in the queue |
+| /volume | Change the volume between 0-200 (Default is 50) |
+
+---
+
+# Support
+> Email: botsupport@alphacms.tech
+
+> Discord: >_VLevente#1996
+
+> Telegram: Coming Soon
+
+[AlphaBOT]: <https://discord.com/oauth2/authorize?client_id=995659897712672770&scope=bot&permissions=549755289087>
+[AlphaMusic]: <https://discord.com/oauth2/authorize?client_id=997898829900824677&scope=bot&permissions=549755289087>
