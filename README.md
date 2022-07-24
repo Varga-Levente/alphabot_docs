@@ -6,22 +6,23 @@
 - Thats all. Now you can use the bot
 
 ## Commands
-| Command | Aliases | Cooldown | Description |
-| ------ | ------ | ------ | ------ |
-| >>bot | - | 5 sec | Send a short embed about the bot |
-| >>help | >>commands / >>cmds | 5 sec | List all commands of bot or info about a specific command |
-| >>ban [@user or UserID] [Reason] | >>b | 5 sec | Ban user from the guild |
-| >>unban [@user or UserID] | >>ub | 5 sec | Unban user from the guild |
-| >>clear [number] | >>purge | 10 sec | Clears number of messages in chat |
-| >>giveaway-start [Title] [Prize] [Emoji] [Winner count 1-15] [Duration in seconds] | >>gstart | 5 sec | **Use _ instead of space in the title and prize!** You can create a giveaway |
-| >>giveaway-end [message-id] | >>gend | 5 sec | Ends a giveaway and rolls the winer(s) |
-| >>rdog | - | 5 sec | Random dog image |
-| >>serverinfo | >>si | 5 sec | Show the guild informations |
-| >>timer [10s or 10m or 10h] | >>countdown | 5 sec | Start a timer |
-| >>userinfo [@user or UserID] | >>ui | 5 sec | Shows information about user |
-| >>weather [City] | - | 5 sec | Show the weather in City |
-| [NSFW] >>solo | - | 5 sec | Display an NSFW anime gif |
-| [NSFW] >>anal | - | 5 sec | Display an NSFW anime gif |
+| Type | Command | Aliases | Cooldown | Description |
+| ------ | ------ | ------ | ------ | ------ |
+| SFW | >>bot | - | 5 sec | Send a short embed about the bot |
+| SFW | >>help | >>commands / >>cmds | 5 sec | List all commands of bot or info about a specific command |
+| SFW | >>ban [@user or UserID] [Reason] | >>b | 5 sec | Ban user from the guild |
+| SFW | >>unban [@user or UserID] | >>ub | 5 sec | Unban user from the guild |
+| SFW | >>clear [number] | >>purge | 10 sec | Clears number of messages in chat |
+| SFW | >>giveaway-start [Title] [Prize] [Emoji] [Winner count 1-15] [Duration in seconds] | >>gstart | 5 sec | **Use _ instead of space in the title and prize!** You can create a giveaway |
+| SFW | >>giveaway-end [message-id] | >>gend | 5 sec | Ends a giveaway and rolls the winer(s) |
+| SFW | >>rdog | - | 5 sec | Random dog image |
+| SFW | >>serverinfo | >>si | 5 sec | Show the guild informations |
+| SFW | >>timer [10s or 10m or 10h] | >>countdown | 5 sec | Start a timer |
+| SFW | >>userinfo [@user or UserID] | >>ui | 5 sec | Shows information about user |
+| SFW | >>weather [City] | - | 5 sec | Show the weather in City |
+|  |  |  |  |  |
+| NSFW | >>solo | - | 5 sec | Display an NSFW anime gif |
+| NSFW | >>anal | - | 5 sec | Display an NSFW anime gif |
 
 ---
 
