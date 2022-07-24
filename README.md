@@ -19,6 +19,9 @@
 | >>serverinfo | >>si | 5 sec | Show the guild informations |
 | >>timer [10s or 10m or 10h] | >>countdown | 5 sec | Start a timer |
 | >>userinfo [@user or UserID] | >>ui | 5 sec | Shows information about user |
+| >>weather [City] | - | 5 sec | Show the weather in City |
+| [NSFW] >>solo | - | 5 sec | Display an NSFW anime gif |
+| [NSFW] >>anal | - | 5 sec | Display an NSFW anime gif |
 
 ---
 
